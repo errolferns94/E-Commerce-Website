@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { supabase, inventoryService, Product, Inventory, InventoryTransaction } from '../../lib/supabase';
-import { PlusIcon, MinusIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
 import { getImageUrl } from '../../utils/imageUtils';
 
 interface ProductWithInventory extends Product {
