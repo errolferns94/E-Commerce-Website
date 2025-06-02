@@ -156,6 +156,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Errol Fernandes - errolferns94@gmail.com
 
 Project Link: [https://github.com/yourusername/e-commerce_platform](https://github.com/yourusername/e-commerce_platform)
+
+
+ScreenShots
+![image](https://github.com/user-attachments/assets/8a0120f3-ba40-4f62-9a3c-8f9f336200c2)
+![image](https://github.com/user-attachments/assets/d1d792ed-dde6-455e-a045-858d3da0cb67)
+![image](https://github.com/user-attachments/assets/ad8a24e6-ce04-428d-904d-5afe6a3a6e11)
+![image](https://github.com/user-attachments/assets/0ed3fab4-70ec-4068-b819-ea5d8b54d0e3)
+
+
+
+
